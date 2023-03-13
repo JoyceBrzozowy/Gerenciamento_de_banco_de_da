@@ -41,3 +41,5 @@ CREATE TABLE transacoes (
   FOREIGN KEY (conta_origem) REFERENCES contas(id),
   FOREIGN KEY (conta_destino) REFERENCES contas(id)
 );
+
+
