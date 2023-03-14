@@ -1,4 +1,4 @@
---criação de tabelas em SQL para gerenciamento de banco de dados de um banco:
+--Criação de tabelas em SQL para gerenciamento de banco de dados de um banco:
 
 --Tabela de Clientes:
 
